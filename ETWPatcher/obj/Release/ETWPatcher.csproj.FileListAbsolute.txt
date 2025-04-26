@@ -1,0 +1,7 @@
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\bin\Release\ETWPatcher.exe.config
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\bin\Release\ETWPatcher.exe
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\bin\Release\ETWPatcher.pdb
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\obj\Release\ETWPatcher.csproj.AssemblyReference.cache
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\obj\Release\ETWPatcher.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\obj\Release\ETWPatcher.exe
+C:\Users\miles\source\repos\ETWPatcher\ETWPatcher\obj\Release\ETWPatcher.pdb
